@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Aku\\source\\repos\\CCPTPM\\AAA\\ApiSer\\ApiSer.csproj": {}
+    "C:\\Users\\Aku\\source\\repos\\WebsiteManga-master\\AAA\\ApiSer\\ApiSer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Aku\\source\\repos\\CCPTPM\\AAA\\ApiSer\\ApiSer.csproj": {
+    "C:\\Users\\Aku\\source\\repos\\WebsiteManga-master\\AAA\\ApiSer\\ApiSer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aku\\source\\repos\\CCPTPM\\AAA\\ApiSer\\ApiSer.csproj",
+        "projectUniqueName": "C:\\Users\\Aku\\source\\repos\\WebsiteManga-master\\AAA\\ApiSer\\ApiSer.csproj",
         "projectName": "ApiSer",
-        "projectPath": "C:\\Users\\Aku\\source\\repos\\CCPTPM\\AAA\\ApiSer\\ApiSer.csproj",
+        "projectPath": "C:\\Users\\Aku\\source\\repos\\WebsiteManga-master\\AAA\\ApiSer\\ApiSer.csproj",
         "packagesPath": "C:\\Users\\Aku\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aku\\source\\repos\\CCPTPM\\AAA\\ApiSer\\obj\\",
+        "outputPath": "C:\\Users\\Aku\\source\\repos\\WebsiteManga-master\\AAA\\ApiSer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"

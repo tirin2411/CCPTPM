@@ -1,13 +1,3 @@
-<<<<<<< HEAD
-C:\Users\Aku\source\repos\CCPTPM\AAA\ViewModels\bin\Debug\netcoreapp3.1\ViewModels.deps.json
-C:\Users\Aku\source\repos\CCPTPM\AAA\ViewModels\bin\Debug\netcoreapp3.1\ViewModels.dll
-C:\Users\Aku\source\repos\CCPTPM\AAA\ViewModels\bin\Debug\netcoreapp3.1\ViewModels.pdb
-C:\Users\Aku\source\repos\CCPTPM\AAA\ViewModels\obj\Debug\netcoreapp3.1\ViewModels.AssemblyInfoInputs.cache
-C:\Users\Aku\source\repos\CCPTPM\AAA\ViewModels\obj\Debug\netcoreapp3.1\ViewModels.AssemblyInfo.cs
-C:\Users\Aku\source\repos\CCPTPM\AAA\ViewModels\obj\Debug\netcoreapp3.1\ViewModels.csproj.CoreCompileInputs.cache
-C:\Users\Aku\source\repos\CCPTPM\AAA\ViewModels\obj\Debug\netcoreapp3.1\ViewModels.dll
-C:\Users\Aku\source\repos\CCPTPM\AAA\ViewModels\obj\Debug\netcoreapp3.1\ViewModels.pdb
-=======
 E:\Projects\AAA\ViewModels\bin\Debug\netcoreapp3.1\ViewModels.deps.json
 E:\Projects\AAA\ViewModels\bin\Debug\netcoreapp3.1\ViewModels.dll
 E:\Projects\AAA\ViewModels\bin\Debug\netcoreapp3.1\ViewModels.pdb
@@ -32,8 +22,3 @@ O:\Projects\AAA\ViewModels\obj\Debug\netcoreapp3.1\ViewModels.csproj.CoreCompile
 O:\Projects\AAA\ViewModels\obj\Debug\netcoreapp3.1\ViewModels.csproj.CopyComplete
 O:\Projects\AAA\ViewModels\obj\Debug\netcoreapp3.1\ViewModels.dll
 O:\Projects\AAA\ViewModels\obj\Debug\netcoreapp3.1\ViewModels.pdb
->>>>>>> TanRanSanMoi
-C:\Users\Aku\source\repos\CCPTPM\AAA\ViewModels\obj\Debug\netcoreapp3.1\ViewModels.csprojAssemblyReference.cache
-C:\Users\Aku\source\repos\CCPTPM\AAA\ViewModels\bin\Debug\netcoreapp3.1\Data.dll
-C:\Users\Aku\source\repos\CCPTPM\AAA\ViewModels\bin\Debug\netcoreapp3.1\Data.pdb
-C:\Users\Aku\source\repos\CCPTPM\AAA\ViewModels\obj\Debug\netcoreapp3.1\ViewModels.csproj.CopyComplete

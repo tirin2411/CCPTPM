@@ -1,9 +1,0 @@
-C:\Users\Aku\source\repos\CCPTPM\AAA\ApiSer\bin\Debug\netcoreapp3.1\ApiSer.deps.json
-C:\Users\Aku\source\repos\CCPTPM\AAA\ApiSer\bin\Debug\netcoreapp3.1\ApiSer.dll
-C:\Users\Aku\source\repos\CCPTPM\AAA\ApiSer\bin\Debug\netcoreapp3.1\ApiSer.pdb
-C:\Users\Aku\source\repos\CCPTPM\AAA\ApiSer\obj\Debug\netcoreapp3.1\ApiSer.csprojAssemblyReference.cache
-C:\Users\Aku\source\repos\CCPTPM\AAA\ApiSer\obj\Debug\netcoreapp3.1\ApiSer.AssemblyInfoInputs.cache
-C:\Users\Aku\source\repos\CCPTPM\AAA\ApiSer\obj\Debug\netcoreapp3.1\ApiSer.AssemblyInfo.cs
-C:\Users\Aku\source\repos\CCPTPM\AAA\ApiSer\obj\Debug\netcoreapp3.1\ApiSer.csproj.CoreCompileInputs.cache
-C:\Users\Aku\source\repos\CCPTPM\AAA\ApiSer\obj\Debug\netcoreapp3.1\ApiSer.dll
-C:\Users\Aku\source\repos\CCPTPM\AAA\ApiSer\obj\Debug\netcoreapp3.1\ApiSer.pdb

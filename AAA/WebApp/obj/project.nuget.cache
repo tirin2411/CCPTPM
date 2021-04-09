@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "DJNHQF+uKtCCrilVYbwq37bNW4rB8mtjTETnqQWqrmZGDv/+K8GwB5VNKSU8hhDGBZMOOyH0IuHhMhAoUkbfhg==",
+  "dgSpecHash": "mGQrIuDn99yhaYycO3j/agC6zWF4x7lU4I33jfh5sIl2nDWuvDMWu3AEqV65kuZGzRKaZKHzSJdCIXYc1QcfwA==",
   "success": false,
   "projectFilePath": "C:\\Users\\Aku\\source\\repos\\CCPTPM\\AAA\\WebApp\\WebApp.csproj",
   "expectedPackageFiles": [
@@ -16,7 +16,8 @@
     "C:\\Users\\Aku\\.nuget\\packages\\microsoft.aspnetcore.hosting.server.abstractions\\2.2.0\\microsoft.aspnetcore.hosting.server.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\Aku\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\Aku\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
-    "C:\\Users\\Aku\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
+    "C:\\Users\\Aku\\.nuget\\packages\\microsoft.aspnetcore.http.extensions\\2.2.0\\microsoft.aspnetcore.http.extensions.2.2.0.nupkg.sha512",
+    "C:\\Users\\Aku\\.nuget\\packages\\microsoft.aspnetcore.http.features\\3.1.4\\microsoft.aspnetcore.http.features.3.1.4.nupkg.sha512",
     "C:\\Users\\Aku\\.nuget\\packages\\microsoft.aspnetcore.identity.entityframeworkcore\\3.1.3\\microsoft.aspnetcore.identity.entityframeworkcore.3.1.3.nupkg.sha512",
     "C:\\Users\\Aku\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
     "C:\\Users\\Aku\\.nuget\\packages\\microsoft.aspnetcore.razor.language\\3.1.0\\microsoft.aspnetcore.razor.language.3.1.0.nupkg.sha512",
@@ -37,15 +38,15 @@
     "C:\\Users\\Aku\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\3.1.3\\microsoft.entityframeworkcore.analyzers.3.1.3.nupkg.sha512",
     "C:\\Users\\Aku\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\3.1.3\\microsoft.entityframeworkcore.relational.3.1.3.nupkg.sha512",
     "C:\\Users\\Aku\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\3.1.3\\microsoft.entityframeworkcore.sqlserver.3.1.3.nupkg.sha512",
-    "C:\\Users\\Aku\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\3.1.3\\microsoft.extensions.caching.abstractions.3.1.3.nupkg.sha512",
-    "C:\\Users\\Aku\\.nuget\\packages\\microsoft.extensions.caching.memory\\3.1.3\\microsoft.extensions.caching.memory.3.1.3.nupkg.sha512",
+    "C:\\Users\\Aku\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\3.1.4\\microsoft.extensions.caching.abstractions.3.1.4.nupkg.sha512",
+    "C:\\Users\\Aku\\.nuget\\packages\\microsoft.extensions.caching.memory\\3.1.4\\microsoft.extensions.caching.memory.3.1.4.nupkg.sha512",
     "C:\\Users\\Aku\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.3\\microsoft.extensions.configuration.3.1.3.nupkg.sha512",
     "C:\\Users\\Aku\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.3\\microsoft.extensions.configuration.abstractions.3.1.3.nupkg.sha512",
     "C:\\Users\\Aku\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.3\\microsoft.extensions.configuration.binder.3.1.3.nupkg.sha512",
     "C:\\Users\\Aku\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\3.1.3\\microsoft.extensions.configuration.fileextensions.3.1.3.nupkg.sha512",
     "C:\\Users\\Aku\\.nuget\\packages\\microsoft.extensions.configuration.json\\3.1.3\\microsoft.extensions.configuration.json.3.1.3.nupkg.sha512",
     "C:\\Users\\Aku\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.3\\microsoft.extensions.dependencyinjection.3.1.3.nupkg.sha512",
-    "C:\\Users\\Aku\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.3\\microsoft.extensions.dependencyinjection.abstractions.3.1.3.nupkg.sha512",
+    "C:\\Users\\Aku\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.4\\microsoft.extensions.dependencyinjection.abstractions.3.1.4.nupkg.sha512",
     "C:\\Users\\Aku\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\3.1.3\\microsoft.extensions.fileproviders.abstractions.3.1.3.nupkg.sha512",
     "C:\\Users\\Aku\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\3.1.3\\microsoft.extensions.fileproviders.physical.3.1.3.nupkg.sha512",
     "C:\\Users\\Aku\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\3.1.3\\microsoft.extensions.filesystemglobbing.3.1.3.nupkg.sha512",
@@ -53,13 +54,14 @@
     "C:\\Users\\Aku\\.nuget\\packages\\microsoft.extensions.identity.core\\3.1.3\\microsoft.extensions.identity.core.3.1.3.nupkg.sha512",
     "C:\\Users\\Aku\\.nuget\\packages\\microsoft.extensions.identity.stores\\3.1.3\\microsoft.extensions.identity.stores.3.1.3.nupkg.sha512",
     "C:\\Users\\Aku\\.nuget\\packages\\microsoft.extensions.logging\\3.1.3\\microsoft.extensions.logging.3.1.3.nupkg.sha512",
-    "C:\\Users\\Aku\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.3\\microsoft.extensions.logging.abstractions.3.1.3.nupkg.sha512",
-    "C:\\Users\\Aku\\.nuget\\packages\\microsoft.extensions.options\\3.1.3\\microsoft.extensions.options.3.1.3.nupkg.sha512",
-    "C:\\Users\\Aku\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.3\\microsoft.extensions.primitives.3.1.3.nupkg.sha512",
+    "C:\\Users\\Aku\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.4\\microsoft.extensions.logging.abstractions.3.1.4.nupkg.sha512",
+    "C:\\Users\\Aku\\.nuget\\packages\\microsoft.extensions.options\\3.1.4\\microsoft.extensions.options.3.1.4.nupkg.sha512",
+    "C:\\Users\\Aku\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.4\\microsoft.extensions.primitives.3.1.4.nupkg.sha512",
     "C:\\Users\\Aku\\.nuget\\packages\\microsoft.identity.client\\3.0.8\\microsoft.identity.client.3.0.8.nupkg.sha512",
     "C:\\Users\\Aku\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.8.0\\microsoft.identitymodel.jsonwebtokens.6.8.0.nupkg.sha512",
     "C:\\Users\\Aku\\.nuget\\packages\\microsoft.identitymodel.logging\\6.8.0\\microsoft.identitymodel.logging.6.8.0.nupkg.sha512",
     "C:\\Users\\Aku\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.8.0\\microsoft.identitymodel.tokens.6.8.0.nupkg.sha512",
+    "C:\\Users\\Aku\\.nuget\\packages\\microsoft.net.http.headers\\2.2.0\\microsoft.net.http.headers.2.2.0.nupkg.sha512",
     "C:\\Users\\Aku\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.2\\microsoft.netcore.platforms.2.1.2.nupkg.sha512",
     "C:\\Users\\Aku\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\Aku\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration\\3.1.4\\microsoft.visualstudio.web.codegeneration.3.1.4.nupkg.sha512",
@@ -73,7 +75,7 @@
     "C:\\Users\\Aku\\.nuget\\packages\\microsoft.win32.primitives\\4.3.0\\microsoft.win32.primitives.4.3.0.nupkg.sha512",
     "C:\\Users\\Aku\\.nuget\\packages\\microsoft.win32.registry\\4.5.0\\microsoft.win32.registry.4.5.0.nupkg.sha512",
     "C:\\Users\\Aku\\.nuget\\packages\\netstandard.library\\1.6.1\\netstandard.library.1.6.1.nupkg.sha512",
-    "C:\\Users\\Aku\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
+    "C:\\Users\\Aku\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
     "C:\\Users\\Aku\\.nuget\\packages\\nuget.frameworks\\4.7.0\\nuget.frameworks.4.7.0.nupkg.sha512",
     "C:\\Users\\Aku\\.nuget\\packages\\paypal\\2.0.0-rc2\\paypal.2.0.0-rc2.nupkg.sha512",
     "C:\\Users\\Aku\\.nuget\\packages\\runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
@@ -97,7 +99,7 @@
     "C:\\Users\\Aku\\.nuget\\packages\\runtime.win-x64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
     "C:\\Users\\Aku\\.nuget\\packages\\runtime.win-x86.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
     "C:\\Users\\Aku\\.nuget\\packages\\system.appcontext\\4.3.0\\system.appcontext.4.3.0.nupkg.sha512",
-    "C:\\Users\\Aku\\.nuget\\packages\\system.buffers\\4.3.0\\system.buffers.4.3.0.nupkg.sha512",
+    "C:\\Users\\Aku\\.nuget\\packages\\system.buffers\\4.5.0\\system.buffers.4.5.0.nupkg.sha512",
     "C:\\Users\\Aku\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
     "C:\\Users\\Aku\\.nuget\\packages\\system.collections.concurrent\\4.3.0\\system.collections.concurrent.4.3.0.nupkg.sha512",
     "C:\\Users\\Aku\\.nuget\\packages\\system.collections.immutable\\1.7.0\\system.collections.immutable.1.7.0.nupkg.sha512",
@@ -128,6 +130,7 @@
     "C:\\Users\\Aku\\.nuget\\packages\\system.io.compression.zipfile\\4.3.0\\system.io.compression.zipfile.4.3.0.nupkg.sha512",
     "C:\\Users\\Aku\\.nuget\\packages\\system.io.filesystem\\4.3.0\\system.io.filesystem.4.3.0.nupkg.sha512",
     "C:\\Users\\Aku\\.nuget\\packages\\system.io.filesystem.primitives\\4.3.0\\system.io.filesystem.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\Aku\\.nuget\\packages\\system.io.pipelines\\4.7.1\\system.io.pipelines.4.7.1.nupkg.sha512",
     "C:\\Users\\Aku\\.nuget\\packages\\system.linq\\4.3.0\\system.linq.4.3.0.nupkg.sha512",
     "C:\\Users\\Aku\\.nuget\\packages\\system.linq.expressions\\4.3.0\\system.linq.expressions.4.3.0.nupkg.sha512",
     "C:\\Users\\Aku\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
@@ -189,26 +192,8 @@
     {
       "code": "NU1105",
       "level": "Error",
-      "message": "Unable to find project information for 'C:\\Users\\Aku\\source\\repos\\CCPTPM\\AAA\\Extensions\\Extensions.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
-      "libraryId": "C:\\Users\\Aku\\source\\repos\\CCPTPM\\AAA\\Extensions\\Extensions.csproj",
-      "targetGraphs": [
-        ".NETCoreApp,Version=v3.1"
-      ]
-    },
-    {
-      "code": "NU1105",
-      "level": "Error",
       "message": "Unable to find project information for 'C:\\Users\\Aku\\source\\repos\\CCPTPM\\AAA\\ApiSer\\ApiSer.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
       "libraryId": "C:\\Users\\Aku\\source\\repos\\CCPTPM\\AAA\\ApiSer\\ApiSer.csproj",
-      "targetGraphs": [
-        ".NETCoreApp,Version=v3.1"
-      ]
-    },
-    {
-      "code": "NU1108",
-      "level": "Error",
-      "message": "Cycle detected. \r\n  WebApp -> Application -> WebApp.",
-      "libraryId": "WebApp",
       "targetGraphs": [
         ".NETCoreApp,Version=v3.1"
       ]

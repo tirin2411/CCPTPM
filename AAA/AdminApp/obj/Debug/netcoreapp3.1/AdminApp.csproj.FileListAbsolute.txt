@@ -1026,11 +1026,3 @@ O:\Projects\AAA\AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\PriceAndDestination
 O:\Projects\AAA\AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\PriceAndDestination\Create.cshtml.g.cs
 O:\Projects\AAA\AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\PriceAndDestination\Edit.cshtml.g.cs
 O:\Projects\AAA\AdminApp\obj\Debug\netcoreapp3.1\Razor\Views\PriceAndDestination\Delete.cshtml.g.cs
-C:\Users\Aku\source\repos\CCPTPM\AAA\AdminApp\obj\Debug\netcoreapp3.1\AdminApp.csprojAssemblyReference.cache
-C:\Users\Aku\source\repos\CCPTPM\AAA\AdminApp\obj\Debug\netcoreapp3.1\AdminApp.AssemblyInfoInputs.cache
-C:\Users\Aku\source\repos\CCPTPM\AAA\AdminApp\obj\Debug\netcoreapp3.1\AdminApp.AssemblyInfo.cs
-C:\Users\Aku\source\repos\CCPTPM\AAA\AdminApp\obj\Debug\netcoreapp3.1\AdminApp.csproj.CoreCompileInputs.cache
-C:\Users\Aku\source\repos\CCPTPM\AAA\AdminApp\obj\Debug\netcoreapp3.1\AdminApp.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\Aku\source\repos\CCPTPM\AAA\AdminApp\obj\Debug\netcoreapp3.1\AdminApp.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Aku\source\repos\CCPTPM\AAA\AdminApp\obj\Debug\netcoreapp3.1\AdminApp.RazorAssemblyInfo.cache
-C:\Users\Aku\source\repos\CCPTPM\AAA\AdminApp\obj\Debug\netcoreapp3.1\AdminApp.RazorAssemblyInfo.cs
