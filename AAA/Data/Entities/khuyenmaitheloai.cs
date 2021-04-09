@@ -4,7 +4,11 @@ using System.Text;
 
 namespace Data.Entities
 {
-    class khuyenmaitheloai
+    public class KhuyenmaiTheloai
     {
+        public int KhuyenmaiId { get; set; }
+        public Khuyenmai Khuyenmai { get; set; }
+        public int TheLoaiId { get; set; }
+        public Theloai Theloai { get; set; }
     }
 }

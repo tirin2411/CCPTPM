@@ -4,7 +4,9 @@ using System.Text;
 
 namespace Data.Enums
 {
-    class status
+    public enum Status
     {
+        InActive,
+        Active
     }
 }

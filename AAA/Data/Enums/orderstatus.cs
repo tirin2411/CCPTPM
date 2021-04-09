@@ -4,7 +4,12 @@ using System.Text;
 
 namespace Data.Enums
 {
-    class orderstatus
+    public enum OrderStatus
     {
+        InProgress,
+        Confirmed,
+        Shipping,
+        Success,
+        Canceled
     }
 }
