@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yV9z4WoDqr/0n35mPEZoWPmsTrrPjr7fSxXGBdOzKG8f/qS7Syxz1LBW95R0ku2eyF3aulqts+ikk4zt97qk/A==",
+  "dgSpecHash": "UtNP7vBilh/DJp1taLwKQUl4EW+12FP9pY/oW99DGgh0SLFWKVOYIUQ5V0WZjGPqoCEghpDngYbFPfyCTeYDXQ==",
   "success": false,
-  "projectFilePath": "C:\\Users\\Aku\\Source\\Repos\\CCPTPM\\AAA\\WebApp\\WebApp.csproj",
+  "projectFilePath": "C:\\Users\\Aku\\source\\repos\\CCPTPM\\AAA\\WebApp\\WebApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Aku\\.nuget\\packages\\braintreehttp-dotnet\\0.3.0\\braintreehttp-dotnet.0.3.0.nupkg.sha512",
     "C:\\Users\\Aku\\.nuget\\packages\\fluentvalidation\\8.6.2\\fluentvalidation.8.6.2.nupkg.sha512",
@@ -178,24 +178,6 @@
     "C:\\Users\\Aku\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
   ],
   "logs": [
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Unable to find project 'C:\\Users\\Aku\\Source\\Repos\\CCPTPM\\AAA\\Extensions\\Extensions.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "C:\\Users\\Aku\\Source\\Repos\\CCPTPM\\AAA\\Extensions\\Extensions.csproj",
-      "targetGraphs": [
-        ".NETCoreApp,Version=v3.1"
-      ]
-    },
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Unable to find project 'C:\\Users\\Aku\\Source\\Repos\\CCPTPM\\AAA\\ApiSer\\ApiSer.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "C:\\Users\\Aku\\Source\\Repos\\CCPTPM\\AAA\\ApiSer\\ApiSer.csproj",
-      "targetGraphs": [
-        ".NETCoreApp,Version=v3.1"
-      ]
-    },
     {
       "code": "NU1108",
       "level": "Error",

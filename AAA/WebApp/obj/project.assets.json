@@ -2742,6 +2742,16 @@
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
       },
+      "ApiSer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/ApiSer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ApiSer.dll": {}
+        }
+      },
       "Application/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
@@ -2775,6 +2785,16 @@
         },
         "runtime": {
           "bin/placeholder/Data.dll": {}
+        }
+      },
+      "Extensions/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Extensions.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Extensions.dll": {}
         }
       }
     }
@@ -8812,6 +8832,11 @@
         "system.xml.xmlserializer.nuspec"
       ]
     },
+    "ApiSer/1.0.0": {
+      "type": "project",
+      "path": "../ApiSer/ApiSer.csproj",
+      "msbuildProject": "../ApiSer/ApiSer.csproj"
+    },
     "Application/1.0.0": {
       "type": "project",
       "path": "../Application/Application.csproj",
@@ -8821,13 +8846,18 @@
       "type": "project",
       "path": "../Data/Data.csproj",
       "msbuildProject": "../Data/Data.csproj"
+    },
+    "Extensions/1.0.0": {
+      "type": "project",
+      "path": "../Extensions/Extensions.csproj",
+      "msbuildProject": "../Extensions/Extensions.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
+      "ApiSer >= 1.0.0",
       "Application >= 1.0.0",
-      "C:\\Users\\Aku\\Source\\Repos\\CCPTPM\\AAA\\ApiSer\\ApiSer.csproj",
-      "C:\\Users\\Aku\\Source\\Repos\\CCPTPM\\AAA\\Extensions\\Extensions.csproj",
+      "Extensions >= 1.0.0",
       "FluentValidation.AspNetCore >= 8.6.2",
       "Microsoft.IdentityModel.Logging >= 6.8.0",
       "Microsoft.IdentityModel.Tokens >= 6.8.0",
@@ -8843,11 +8873,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Aku\\Source\\Repos\\CCPTPM\\AAA\\WebApp\\WebApp.csproj",
+      "projectUniqueName": "C:\\Users\\Aku\\source\\repos\\CCPTPM\\AAA\\WebApp\\WebApp.csproj",
       "projectName": "WebApp",
-      "projectPath": "C:\\Users\\Aku\\Source\\Repos\\CCPTPM\\AAA\\WebApp\\WebApp.csproj",
+      "projectPath": "C:\\Users\\Aku\\source\\repos\\CCPTPM\\AAA\\WebApp\\WebApp.csproj",
       "packagesPath": "C:\\Users\\Aku\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Aku\\Source\\Repos\\CCPTPM\\AAA\\WebApp\\obj\\",
+      "outputPath": "C:\\Users\\Aku\\source\\repos\\CCPTPM\\AAA\\WebApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
@@ -8868,14 +8898,14 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Aku\\Source\\Repos\\CCPTPM\\AAA\\ApiSer\\ApiSer.csproj": {
-              "projectPath": "C:\\Users\\Aku\\Source\\Repos\\CCPTPM\\AAA\\ApiSer\\ApiSer.csproj"
+            "C:\\Users\\Aku\\source\\repos\\CCPTPM\\AAA\\ApiSer\\ApiSer.csproj": {
+              "projectPath": "C:\\Users\\Aku\\source\\repos\\CCPTPM\\AAA\\ApiSer\\ApiSer.csproj"
             },
-            "C:\\Users\\Aku\\Source\\Repos\\CCPTPM\\AAA\\Application\\Application.csproj": {
-              "projectPath": "C:\\Users\\Aku\\Source\\Repos\\CCPTPM\\AAA\\Application\\Application.csproj"
+            "C:\\Users\\Aku\\source\\repos\\CCPTPM\\AAA\\Application\\Application.csproj": {
+              "projectPath": "C:\\Users\\Aku\\source\\repos\\CCPTPM\\AAA\\Application\\Application.csproj"
             },
-            "C:\\Users\\Aku\\Source\\Repos\\CCPTPM\\AAA\\Extensions\\Extensions.csproj": {
-              "projectPath": "C:\\Users\\Aku\\Source\\Repos\\CCPTPM\\AAA\\Extensions\\Extensions.csproj"
+            "C:\\Users\\Aku\\source\\repos\\CCPTPM\\AAA\\Extensions\\Extensions.csproj": {
+              "projectPath": "C:\\Users\\Aku\\source\\repos\\CCPTPM\\AAA\\Extensions\\Extensions.csproj"
             }
           }
         }
@@ -8938,24 +8968,6 @@
     }
   },
   "logs": [
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Unable to find project 'C:\\Users\\Aku\\Source\\Repos\\CCPTPM\\AAA\\Extensions\\Extensions.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "C:\\Users\\Aku\\Source\\Repos\\CCPTPM\\AAA\\Extensions\\Extensions.csproj",
-      "targetGraphs": [
-        ".NETCoreApp,Version=v3.1"
-      ]
-    },
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Unable to find project 'C:\\Users\\Aku\\Source\\Repos\\CCPTPM\\AAA\\ApiSer\\ApiSer.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "C:\\Users\\Aku\\Source\\Repos\\CCPTPM\\AAA\\ApiSer\\ApiSer.csproj",
-      "targetGraphs": [
-        ".NETCoreApp,Version=v3.1"
-      ]
-    },
     {
       "code": "NU1108",
       "level": "Error",
