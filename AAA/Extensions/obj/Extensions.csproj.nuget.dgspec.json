@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Aku\\source\\repos\\CCPTPM\\AAA\\WebApp\\WebApp.csproj": {}
+    "C:\\Users\\Aku\\source\\repos\\CCPTPM\\AAA\\Extensions\\Extensions.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Aku\\source\\repos\\CCPTPM\\AAA\\WebApp\\WebApp.csproj": {
+    "C:\\Users\\Aku\\source\\repos\\CCPTPM\\AAA\\Extensions\\Extensions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aku\\source\\repos\\CCPTPM\\AAA\\WebApp\\WebApp.csproj",
-        "projectName": "WebApp",
-        "projectPath": "C:\\Users\\Aku\\source\\repos\\CCPTPM\\AAA\\WebApp\\WebApp.csproj",
+        "projectUniqueName": "C:\\Users\\Aku\\source\\repos\\CCPTPM\\AAA\\Extensions\\Extensions.csproj",
+        "projectName": "Extensions",
+        "projectPath": "C:\\Users\\Aku\\source\\repos\\CCPTPM\\AAA\\Extensions\\Extensions.csproj",
         "packagesPath": "C:\\Users\\Aku\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aku\\source\\repos\\CCPTPM\\AAA\\WebApp\\obj\\",
+        "outputPath": "C:\\Users\\Aku\\source\\repos\\CCPTPM\\AAA\\Extensions\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
@@ -54,9 +54,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
