@@ -1488,32 +1488,6 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
-      },
-      "Data/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v3.1",
-        "dependencies": {
-          "Microsoft.EntityFrameworkCore.SqlServer": "5.0.5"
-        },
-        "compile": {
-          "bin/placeholder/Data.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Data.dll": {}
-        }
-      },
-      "WebApp/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v3.1",
-        "compile": {
-          "bin/placeholder/WebApp.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/WebApp.dll": {}
-        },
-        "frameworkReferences": [
-          "Microsoft.AspNetCore.App"
-        ]
       }
     }
   },
@@ -5513,29 +5487,17 @@
         "system.xml.xmlserializer.4.3.0.nupkg.sha512",
         "system.xml.xmlserializer.nuspec"
       ]
-    },
-    "Data/1.0.0": {
-      "type": "project",
-      "path": "../Data/Data.csproj",
-      "msbuildProject": "../Data/Data.csproj"
-    },
-    "WebApp/1.0.0": {
-      "type": "project",
-      "path": "../WebApp/WebApp.csproj",
-      "msbuildProject": "../WebApp/WebApp.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
       "C:\\Users\\Aku\\source\\repos\\CCPTPM\\AAA\\Utilities\\Utilities.csproj",
       "C:\\Users\\Aku\\source\\repos\\CCPTPM\\AAA\\ViewModels\\ViewModels.csproj",
-      "Data >= 1.0.0",
       "Microsoft.AspNetCore.Session >= 2.2.0",
       "Microsoft.EntityFrameworkCore.Relational >= 3.1.3",
       "Microsoft.EntityFrameworkCore.SqlServer >= 3.1.3",
       "Microsoft.IdentityModel.Tokens >= 6.5.0",
-      "System.IdentityModel.Tokens.Jwt >= 6.5.0",
-      "WebApp >= 1.0.0"
+      "System.IdentityModel.Tokens.Jwt >= 6.5.0"
     ]
   },
   "packageFolders": {
@@ -5570,17 +5532,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Aku\\source\\repos\\CCPTPM\\AAA\\Data\\Data.csproj": {
-              "projectPath": "C:\\Users\\Aku\\source\\repos\\CCPTPM\\AAA\\Data\\Data.csproj"
-            },
             "C:\\Users\\Aku\\source\\repos\\CCPTPM\\AAA\\Utilities\\Utilities.csproj": {
               "projectPath": "C:\\Users\\Aku\\source\\repos\\CCPTPM\\AAA\\Utilities\\Utilities.csproj"
             },
             "C:\\Users\\Aku\\source\\repos\\CCPTPM\\AAA\\ViewModels\\ViewModels.csproj": {
               "projectPath": "C:\\Users\\Aku\\source\\repos\\CCPTPM\\AAA\\ViewModels\\ViewModels.csproj"
-            },
-            "C:\\Users\\Aku\\source\\repos\\CCPTPM\\AAA\\WebApp\\WebApp.csproj": {
-              "projectPath": "C:\\Users\\Aku\\source\\repos\\CCPTPM\\AAA\\WebApp\\WebApp.csproj"
             }
           }
         }
@@ -5649,19 +5605,10 @@
       ]
     },
     {
-      "code": "NU1104",
+      "code": "NU1105",
       "level": "Error",
-      "message": "Unable to find project 'C:\\Users\\Aku\\source\\repos\\CCPTPM\\AAA\\Utilities\\Utilities.csproj'. Check that the project reference is valid and that the project file exists.",
+      "message": "Unable to find project information for 'C:\\Users\\Aku\\source\\repos\\CCPTPM\\AAA\\Utilities\\Utilities.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
       "libraryId": "C:\\Users\\Aku\\source\\repos\\CCPTPM\\AAA\\Utilities\\Utilities.csproj",
-      "targetGraphs": [
-        ".NETCoreApp,Version=v3.1"
-      ]
-    },
-    {
-      "code": "NU1605",
-      "level": "Error",
-      "message": "Detected package downgrade: Microsoft.EntityFrameworkCore.SqlServer from 5.0.5 to 3.1.3. Reference the package directly from the project to select a different version. \r\n Application -> Data -> Microsoft.EntityFrameworkCore.SqlServer (>= 5.0.5) \r\n Application -> Microsoft.EntityFrameworkCore.SqlServer (>= 3.1.3)",
-      "libraryId": "Microsoft.EntityFrameworkCore.SqlServer",
       "targetGraphs": [
         ".NETCoreApp,Version=v3.1"
       ]

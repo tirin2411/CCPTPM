@@ -45,7 +45,6 @@ C:\Users\Aku\Source\Repos\CCPTPM\AAA\WebApp\bin\Debug\netcoreapp3.1\WebApp.dll
 C:\Users\Aku\Source\Repos\CCPTPM\AAA\WebApp\bin\Debug\netcoreapp3.1\WebApp.pdb
 C:\Users\Aku\Source\Repos\CCPTPM\AAA\WebApp\bin\Debug\netcoreapp3.1\WebApp.Views.dll
 C:\Users\Aku\Source\Repos\CCPTPM\AAA\WebApp\bin\Debug\netcoreapp3.1\WebApp.Views.pdb
-C:\Users\Aku\Source\Repos\CCPTPM\AAA\WebApp\obj\Debug\netcoreapp3.1\WebApp.csprojAssemblyReference.cache
 C:\Users\Aku\Source\Repos\CCPTPM\AAA\WebApp\obj\Debug\netcoreapp3.1\WebApp.AssemblyInfoInputs.cache
 C:\Users\Aku\Source\Repos\CCPTPM\AAA\WebApp\obj\Debug\netcoreapp3.1\WebApp.AssemblyInfo.cs
 C:\Users\Aku\Source\Repos\CCPTPM\AAA\WebApp\obj\Debug\netcoreapp3.1\WebApp.csproj.CoreCompileInputs.cache
