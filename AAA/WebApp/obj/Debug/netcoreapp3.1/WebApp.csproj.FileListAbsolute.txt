@@ -71,3 +71,4 @@ C:\Users\Aku\source\repos\CCPTPM\AAA\WebApp\obj\Debug\netcoreapp3.1\WebApp.dll
 C:\Users\Aku\source\repos\CCPTPM\AAA\WebApp\obj\Debug\netcoreapp3.1\WebApp.pdb
 C:\Users\Aku\source\repos\CCPTPM\AAA\WebApp\obj\Debug\netcoreapp3.1\WebApp.genruntimeconfig.cache
 C:\Users\Aku\source\repos\CCPTPM\AAA\WebApp\obj\Debug\netcoreapp3.1\WebApp.csproj.CopyComplete
+C:\Users\Aku\source\repos\CCPTPM\AAA\WebApp\obj\Debug\netcoreapp3.1\WebApp.csprojAssemblyReference.cache

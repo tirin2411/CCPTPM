@@ -4,7 +4,13 @@ using System.Text;
 
 namespace Data.Entities
 {
-    class khuyenmailichsusudung
+    public class KhuyenmaiLichsuSudung
     {
+        public int Id { get; set; }
+        public int KhuyenmaiId { get; set; }
+        public Khuyenmai Khuyenmai { get; set; }
+        public int DonHangId { get; set; }
+        public DonHang DonHang { get; set; }
+        public DateTime NgayTao { get; set; }
     }
 }

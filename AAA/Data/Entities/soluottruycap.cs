@@ -4,7 +4,8 @@ using System.Text;
 
 namespace Data.Entities
 {
-    class soluottruycap
+    public class Soluottruycap
     {
+        public long Dem { get; set; }
     }
 }
