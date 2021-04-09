@@ -4,7 +4,9 @@ using System.Text;
 
 namespace Data.Entities
 {
-    class tacgia
+    public class TacGia
     {
+        public int Id { get; set; }
+        public string TenTacGia { get; set; }
     }
 }

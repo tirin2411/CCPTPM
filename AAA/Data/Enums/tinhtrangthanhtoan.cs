@@ -4,7 +4,9 @@ using System.Text;
 
 namespace Data.Enums
 {
-    class tinhtrangthanhtoan
+    public enum TinhtrangThanhtoan
     {
+        Unpaid,
+        Paid
     }
 }

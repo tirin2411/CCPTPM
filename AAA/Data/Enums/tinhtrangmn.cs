@@ -4,7 +4,9 @@ using System.Text;
 
 namespace Data.Enums
 {
-    class tinhtrangmn
+    public enum TinhtrangMn
     {
+        Old,
+        New
     }
 }

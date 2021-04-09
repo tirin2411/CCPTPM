@@ -4,7 +4,9 @@ using System.Text;
 
 namespace Data.Enums
 {
-    class transactionstatus
+    public enum TransactionStatus
     {
+        Success,
+        Failed
     }
 }

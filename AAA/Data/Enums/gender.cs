@@ -4,7 +4,9 @@ using System.Text;
 
 namespace Data.Enums
 {
-    class gender
+    public enum Gender
     {
+        Nam,
+        Nữ
     }
 }
