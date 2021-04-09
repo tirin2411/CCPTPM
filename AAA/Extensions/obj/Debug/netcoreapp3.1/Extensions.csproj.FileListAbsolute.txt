@@ -6,3 +6,4 @@ C:\Users\Aku\source\repos\CCPTPM\AAA\Extensions\obj\Debug\netcoreapp3.1\Extensio
 C:\Users\Aku\source\repos\CCPTPM\AAA\Extensions\obj\Debug\netcoreapp3.1\Extensions.csproj.CoreCompileInputs.cache
 C:\Users\Aku\source\repos\CCPTPM\AAA\Extensions\obj\Debug\netcoreapp3.1\Extensions.dll
 C:\Users\Aku\source\repos\CCPTPM\AAA\Extensions\obj\Debug\netcoreapp3.1\Extensions.pdb
+C:\Users\Aku\source\repos\CCPTPM\AAA\Extensions\obj\Debug\netcoreapp3.1\Extensions.csprojAssemblyReference.cache
