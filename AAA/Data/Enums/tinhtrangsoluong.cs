@@ -4,7 +4,9 @@ using System.Text;
 
 namespace Data.Enums
 {
-    class inhtrangsoluong
+    public enum TinhtrangSoluong
     {
+        OutOfStock,
+        Stocking
     }
 }

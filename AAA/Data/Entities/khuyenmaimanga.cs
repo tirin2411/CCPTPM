@@ -4,7 +4,11 @@ using System.Text;
 
 namespace Data.Entities
 {
-    class khuyenmaimanga
+    public class KhuyenmaiManga
     {
+        public int KhuyenmaiId { get; set; }
+        public Khuyenmai Khuyenmai { get; set; }
+        public int MangaId { get; set; }
+        public Manga Manga { get; set; }
     }
 }
