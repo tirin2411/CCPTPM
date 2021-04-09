@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Xjj0yvLdOyWGrw8A5EuGfKP71j4xW3YGZ6cgFbvFLGxAWjzzyR2G/BIMQ2H+3PTte2dtRLtx+9VRTMUa04tvaQ==",
+  "dgSpecHash": "DJNHQF+uKtCCrilVYbwq37bNW4rB8mtjTETnqQWqrmZGDv/+K8GwB5VNKSU8hhDGBZMOOyH0IuHhMhAoUkbfhg==",
   "success": false,
   "projectFilePath": "C:\\Users\\Aku\\source\\repos\\CCPTPM\\AAA\\WebApp\\WebApp.csproj",
   "expectedPackageFiles": [
@@ -186,6 +186,24 @@
     "C:\\Users\\Aku\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
   ],
   "logs": [
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Unable to find project information for 'C:\\Users\\Aku\\source\\repos\\CCPTPM\\AAA\\Extensions\\Extensions.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
+      "libraryId": "C:\\Users\\Aku\\source\\repos\\CCPTPM\\AAA\\Extensions\\Extensions.csproj",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Unable to find project information for 'C:\\Users\\Aku\\source\\repos\\CCPTPM\\AAA\\ApiSer\\ApiSer.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
+      "libraryId": "C:\\Users\\Aku\\source\\repos\\CCPTPM\\AAA\\ApiSer\\ApiSer.csproj",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
     {
       "code": "NU1108",
       "level": "Error",
